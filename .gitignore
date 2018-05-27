@@ -1,0 +1,11 @@
+# Mac specific files per directory:
+.DS_Store
+
+# IDE itself
+/.idea
+
+# Logging
+*.log
+
+# Build artifacts
+target/
