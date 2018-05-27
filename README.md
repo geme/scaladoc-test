@@ -11,7 +11,7 @@ Observe:
 ---
 
 ```
-Cannot load the doclet class de.doclet.MyDoclet (specified with -doc-generator): java.lang.ClassNotFoundException: de.doclet.MyDoclet. Leaving the default settings will generate the html version of scaladoc.
+Cannot load the doclet class com.example.doclet.MyDoclet (specified with -doc-generator): java.lang.ClassNotFoundException: com.example.doclet.MyDoclet. Leaving the default settings will generate the html version of scaladoc.
 ```
 
 Questions:
